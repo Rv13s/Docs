@@ -1,0 +1,1 @@
+console.log(  undefined ||null  ||0 ); // print the last value 
